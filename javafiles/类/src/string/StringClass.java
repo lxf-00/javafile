@@ -68,7 +68,7 @@ public class StringClass {
         // int length()
         System.out.println("s8字符串的长度：" + s8.length());
 
-        // String concat()絶対領域
+        // String concat()
         System.out.println(s8.concat(s10));
 
         // char charAt()
