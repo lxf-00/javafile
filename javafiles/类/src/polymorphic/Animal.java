@@ -38,4 +38,4 @@ class Dog extends Animal{
     }
 }
 
-// 测试类： Test
+// 测试类： test

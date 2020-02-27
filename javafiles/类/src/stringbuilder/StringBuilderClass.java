@@ -6,8 +6,8 @@ public class StringBuilderClass {
     解决的问题：String 类的对象内容不可能更改，使用字符串拼接时，总会在内存中新建一个对象，耗时，浪费空间；
 
     构造方法：
-        public StringBuilderClass(): 构造一个空的字符串容器；
-        public StringBuilderClass(String str): 构造一个StringBuilder的容器，并将str添加进去。
+        public StringBuilder(): 构造一个空的字符串容器；
+        public StringBuilder(String str): 构造一个StringBuilder的容器，并将str添加进去。
 
     常用的方法：
         public StringBuilder append(): 添加任意类型数据的字符串形式，并返回当前对象本身；
