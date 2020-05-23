@@ -57,6 +57,62 @@ Java基础知识，Java高级，网络编程
 - [File类相关](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%B1%BB/src/File/FileDemo.java)
 - [System.currentTimeMillis](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%B1%BB/src/System/SystemClass.java)
 - [Wrapper: 基本类型和包装类对象](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%B1%BB/src/Wrapper/WrapperClass.java)
-### 10. 
-=======
->>>>>>> 4ec92da5bd819b72bac740e363368bbd23abc9de
+### 10. 集合： Collection Map
+- [常见的数据结构](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/dataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AE%80%E4%BB%8B)
+- [Collection:简单介绍、单列集合及相关操作](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/collection/CollectionInterface.java)
+- [Collection 子接口：list](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/collection/ListDemo.java)
+- [Collection 子接口：set](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/collection/SetDemo.java)
+- [双列集合Map简单介绍](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/collection/MapDemo.java)
+- [Map 子接口：HashMap 存储自定义类型](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/collection/HashMapDemo.java)
+- [Collections 集合工具类部分方法](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/Collections/CollectionsDemo.java)
+
+### 11. 遍历Iterator、泛型
+- [遍历相关](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/iterator/IteratorInterface.java)
+- [泛型](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%9B%86%E5%90%88%E6%B3%9B%E5%9E%8B/src/generics/GenericsType.java)
+
+
+### 12. 异常
+- [异常体系,异常处理](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%BC%82%E5%B8%B8/src/Exception/ExceptionDemo.java)
+- [I/O异常的处理](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%BC%82%E5%B8%B8/src/ExceptionHandling/Handling.java)
+
+### 13. 线程
+- [线程相关,多线程方式一：继承Thread](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%A4%9A%E7%BA%BF%E7%A8%8B/src/Thread/ThreadDemo.java)
+- [多线程方式二： 实现Runnable接口方式](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%A4%9A%E7%BA%BF%E7%A8%8B/src/Thread/ThreadDemo1.java)
+- [线程安全](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%A4%9A%E7%BA%BF%E7%A8%8B/src/Thread/ThreadSafety.java)
+- [线程间的通信 wait notify](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%A4%9A%E7%BA%BF%E7%A8%8B/src/ThreadPool/ThreadPoolDemo.java)
+- [线程池](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%A4%9A%E7%BA%BF%E7%A8%8B/src/ThreadPool/ThreadPoolDemo1.java)
+
+### 14， 递归
+- [递归](https://github.com/lxf-00/javafile/blob/master/javafiles/%E9%80%92%E5%BD%92/src/RecursionDemo.java)
+
+### 15. 字节流、字符流
+- [I/O](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%AD%97%E8%8A%82%E6%B5%81%E3%80%81%E5%AD%97%E7%AC%A6%E6%B5%81/src/IO/IO)
+- [字节流: 输出流、文件输出流](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%AD%97%E8%8A%82%E6%B5%81%E3%80%81%E5%AD%97%E7%AC%A6%E6%B5%81/src/bytestream/ByteStreamDemo.java)
+- [字节流：输入流、文件输入流](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%AD%97%E8%8A%82%E6%B5%81%E3%80%81%E5%AD%97%E7%AC%A6%E6%B5%81/src/bytestream/ByteStreamDemo1.java)
+- [字符流：输入流、 FileReader](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%AD%97%E8%8A%82%E6%B5%81%E3%80%81%E5%AD%97%E7%AC%A6%E6%B5%81/src/characterstream/CharacterStreamDemo.java)
+- [字符流：输出流、FileWriter](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%AD%97%E8%8A%82%E6%B5%81%E3%80%81%E5%AD%97%E7%AC%A6%E6%B5%81/src/characterstream/CharacterSteamDemo1.java)
+
+### 16. 缓冲流、转换流、序列化流、打印流
+- [字节缓冲流: 输入、输出](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%BC%93%E5%86%B2%E6%B5%81%E3%80%81%E8%BD%AC%E6%8D%A2%E6%B5%81%E3%80%81%E5%BA%8F%E5%88%97%E5%8C%96%E6%B5%81/src/bufferedstream/BSDemo.java)
+- [字节缓冲流： 输入、输出](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%BC%93%E5%86%B2%E6%B5%81%E3%80%81%E8%BD%AC%E6%8D%A2%E6%B5%81%E3%80%81%E5%BA%8F%E5%88%97%E5%8C%96%E6%B5%81/src/bufferedstream/BSDemo1.java)
+- [转换流：编码、解码](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%BC%93%E5%86%B2%E6%B5%81%E3%80%81%E8%BD%AC%E6%8D%A2%E6%B5%81%E3%80%81%E5%BA%8F%E5%88%97%E5%8C%96%E6%B5%81/src/covertedstream/CSDemo.java)
+- [序列化流： 序列化](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%BC%93%E5%86%B2%E6%B5%81%E3%80%81%E8%BD%AC%E6%8D%A2%E6%B5%81%E3%80%81%E5%BA%8F%E5%88%97%E5%8C%96%E6%B5%81/src/serialzation/SerializationDemo.java)
+- [序列化流： 反序列化](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%BC%93%E5%86%B2%E6%B5%81%E3%80%81%E8%BD%AC%E6%8D%A2%E6%B5%81%E3%80%81%E5%BA%8F%E5%88%97%E5%8C%96%E6%B5%81/src/serialzation/SerialaztionDemo1.java)
+- [打印流](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%BC%93%E5%86%B2%E6%B5%81%E3%80%81%E8%BD%AC%E6%8D%A2%E6%B5%81%E3%80%81%E5%BA%8F%E5%88%97%E5%8C%96%E6%B5%81/src/printstream/PrintStreamDemo.java)
+
+### 17. 网络编程相关
+- [网络编程基础](https://github.com/lxf-00/javafile/blob/master/javafiles/NetProgram/src/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+- [TCP 客户端](https://github.com/lxf-00/javafile/blob/master/javafiles/NetProgram/src/TCP/ClientTCP.java)
+-[TCP 服务端](https://github.com/lxf-00/javafile/blob/master/javafiles/NetProgram/src/TCP/ServerTCP.java)
+
+### 18. 函数式接口
+- [函数式编程： Lambda](https://github.com/lxf-00/javafile/blob/master/javafiles/%E5%87%BD%E6%95%B0%E5%BC%8F%E6%8E%A5%E5%8F%A3/src/functioninterface/FunInterface.java)
+
+### 19. Stream流、方法引用
+- [Stream 流](https://github.com/lxf-00/javafile/blob/master/javafiles/Stream%E6%B5%81%E3%80%81%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8/src/Stream/StreamDemo.java)
+- [方法引用](https://github.com/lxf-00/javafile/blob/master/javafiles/Stream%E6%B5%81%E3%80%81%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8/src/FunctionReference.java)
+
+### 20. Junit
+- [junit4](https://github.com/lxf-00/javafile/tree/master/javafiles/Junit/src)
+
+#### ==》 进入数据库.... 
