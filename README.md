@@ -115,4 +115,12 @@ Java基础知识，Java高级，网络编程
 ### 20. Junit
 - [junit4](https://github.com/lxf-00/javafile/tree/master/javafiles/Junit/src)
 
-#### ==》 进入数据库.... 
+### 21. 反射
+- [知识点](https://github.com/lxf-00/javafile/blob/master/javafiles/reflect/src/%E5%8F%8D%E5%B0%84)
+- [获取class对象的三种方法](https://github.com/lxf-00/javafile/blob/master/javafiles/reflect/src/Refect/ReflectDemo1.java)
+- [获取成员方法们](https://github.com/lxf-00/javafile/blob/master/javafiles/reflect/src/Refect/ReflectDemo2.java)
+-[获取构造方法们](https://github.com/lxf-00/javafile/blob/master/javafiles/reflect/src/Refect/ReflectDemo3.java)
+- [获取成员方法们](https://github.com/lxf-00/javafile/blob/master/javafiles/reflect/src/Refect/ReflectDemo4.java)
+- [简单案例: properties类的使用](https://github.com/lxf-00/javafile/blob/master/javafiles/reflect/src/Refect/ReflectDemo5.java)
+
+#### ==》 [数据库相关的学习](https://github.com/lxf-00/JavaWeb)
