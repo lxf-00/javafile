@@ -3,6 +3,7 @@ some exercise of learning java
 
 # 主要知识点
 Java基础知识，Java高级，网络编程
+<<<<<<< HEAD
 
 
 ###### 说明：很早之前学习的基础和高级，网络编程部分，当时没怎么整理。后面整理的。顺序之类可能有出入。重新整理并回顾一遍。
@@ -57,3 +58,5 @@ Java基础知识，Java高级，网络编程
 - [System.currentTimeMillis](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%B1%BB/src/System/SystemClass.java)
 - [Wrapper: 基本类型和包装类对象](https://github.com/lxf-00/javafile/blob/master/javafiles/%E7%B1%BB/src/Wrapper/WrapperClass.java)
 ### 10. 
+=======
+>>>>>>> 4ec92da5bd819b72bac740e363368bbd23abc9de

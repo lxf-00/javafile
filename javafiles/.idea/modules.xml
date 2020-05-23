@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComprehensiveCase/ComprehensiveCase.iml" filepath="$PROJECT_DIR$/ComprehensiveCase/ComprehensiveCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Junit/Junit.iml" filepath="$PROJECT_DIR$/Junit/Junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetProgram/NetProgram.iml" filepath="$PROJECT_DIR$/NetProgram/NetProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream流、方法引用/Stream流、方法引用.iml" filepath="$PROJECT_DIR$/Stream流、方法引用/Stream流、方法引用.iml" />
       <module fileurl="file://$PROJECT_DIR$/javafiles.iml" filepath="$PROJECT_DIR$/javafiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflect/reflect.iml" filepath="$PROJECT_DIR$/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/关键字/关键字.iml" filepath="$PROJECT_DIR$/关键字/关键字.iml" />
+      <module fileurl="file://$PROJECT_DIR$/函数式接口/函数式接口.iml" filepath="$PROJECT_DIR$/函数式接口/函数式接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/单元测试、反射、注解/单元测试、反射、注解.iml" filepath="$PROJECT_DIR$/单元测试、反射、注解/单元测试、反射、注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/可变参数/可变参数.iml" filepath="$PROJECT_DIR$/可变参数/可变参数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/字节流、字符流/字节流、字符流.iml" filepath="$PROJECT_DIR$/字节流、字符流/字节流、字符流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/异常/异常.iml" filepath="$PROJECT_DIR$/异常/异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/引用类型总结/引用类型总结.iml" filepath="$PROJECT_DIR$/引用类型总结/引用类型总结.iml" />
       <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/类/类.iml" filepath="$PROJECT_DIR$/类/类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/缓冲流、转换流、序列化流/缓冲流、转换流、序列化流.iml" filepath="$PROJECT_DIR$/缓冲流、转换流、序列化流/缓冲流、转换流、序列化流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/递归/递归.iml" filepath="$PROJECT_DIR$/递归/递归.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合泛型/集合泛型.iml" filepath="$PROJECT_DIR$/集合泛型/集合泛型.iml" />
     </modules>
   </component>
 </project>

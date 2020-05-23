@@ -12,6 +12,12 @@ public class SerializationDemo {
         构造方法:
             public ObjectOutputStream(OutputStream out) ： 创建一个指定OutputStream的ObjectOutputStream。
 
+        序列化的作用：
+          1，简单又可扩展的对象存储机制；
+          2，远程调用，方便对对象编码解码；
+          3，将对象持久化到介质中；
+          4，允许对象自定义外部存储格式；
+
         序列化操作:
             1. 一个对象要想序列化，必须满足两个条件:
                 该类必须实现 java.io.Serializable 接口， Serializable 是一个标记接口，不实现此接口的类将不会使任何状态序列化或反序列化，会抛出 NotSerializableException 。
@@ -47,5 +53,3 @@ public class SerializationDemo {
 
     }
 }
-
-
